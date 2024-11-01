@@ -1,7 +1,7 @@
 # Employee Map Dashboard application
 
 
-bySzymon Stasiak
+by Szymon Stasiak
 
 
 ```bash
